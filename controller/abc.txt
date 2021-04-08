@@ -1,3 +1,5 @@
 hi this is pallavi kumari 
 this is method for get
 this is method for post
+this is for update
+this is for delete
